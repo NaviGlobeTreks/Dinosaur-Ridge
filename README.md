@@ -4,8 +4,8 @@
             "img": {
                 "cap1": "I-70 roadcut through Dinosaur Ridge", 
                 "cap2": "Colorado School of Mines video on the history of the area", 
-                "img1": "https://drive.google.com/file/d/1GBb-qoIFCRbUzEyItPC_K6DiUaq5dJ5K/view?usp=sharing", 
-                "img2": "https://drive.google.com/file/d/1BfI9goCEHq3bMgLmqGMGyald9ZS_O-gf/view?usp=sharing"
+                "img1": "https://drive.google.com/uc?export=view&id=1GBb-qoIFCRbUzEyItPC_K6DiUaq5dJ5K ", 
+                "img2": "https://drive.google.com/uc?export=view&id=1BfI9goCEHq3bMgLmqGMGyald9ZS_O-gf "
             }, 
             "main": " https://earth.google.com/web/@39.69416605,-105.2,2020.27405608a,4061.93660312d,35y,0h,45t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgCIAEoAigC", 
             "pagenumber": 1, 
@@ -17,9 +17,9 @@
                 "cap1": "Artist rendition of the time during the Morrison FM", 
                 "cap2": "Morrison FM paleosols: Note the alternating purple and green layers.", 
                 "cap3": "The Morrison FM covers many states and dinosaur fossils can be found throughout the rock unit. ", 
-                "img1": "https://drive.google.com/file/d/13k7OaasJxPu1OlPjUY0DxoApA9FheKP9/view?usp=sharing", 
-                "img2": "https://drive.google.com/file/d/19iJzU40-TbEtMCxF1dle7zZSHBdssSMf/view?usp=sharing", 
-                "img3": "https://drive.google.com/file/d/1L1Hdd2frW9uxuWeNFxRksnpDoH_kw29q/view?usp=sharing"
+                "img1": "https://drive.google.com/uc?export=view&id=13k7OaasJxPu1OlPjUY0DxoApA9FheKP9 ", 
+                "img2": "https://drive.google.com/uc?export=view&id=19iJzU40-TbEtMCxF1dle7zZSHBdssSMf ", 
+                "img3": "https://drive.google.com/uc?export=view&id=1L1Hdd2frW9uxuWeNFxRksnpDoH_kw29q "
             }, 
             "main": "https://earth.google.com/web/@39.6780292,-105.1945146,1876.16957942a,0d,60y,34.08292221h,102.68461402t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBPVnBjMnVqOE94NHZYTExVdnlsb1hacUtrcWp1aGhuODNNcUVMRxAF", 
             "pagenumber": 2, 
@@ -29,7 +29,7 @@
         "3": {
             "img": {
                 "cap1": "Golden Fault creating a valley by the visitor's center.", 
-                "img1": "https://drive.google.com/file/d/1tPivJDP68qU3ayuN4r07O-1ryHFNJXcB/view?usp=sharing"
+                "img1": "https://drive.google.com/uc?export=view&id=1tPivJDP68qU3ayuN4r07O-1ryHFNJXcB "
             }, 
             "main": "https://earth.google.com/web/@39.67588,-105.1932783,1882.38048802a,0d,60y,346.70981043h,95.10786567t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBPVnBTbTd6bUVqSG1vT09kemtKaXJrc2RJMk1FWjM0YW1OMWRDVBAF", 
             "pagenumber": 3, 
@@ -40,7 +40,7 @@
             "img": {
                 "cap1": "Volcanic ash\nEarthTime Project, scientists from Massachusetts Institute of Technology, dated three separate layers of ash exposed at Dinosaur Ridge's \u201cAsh Beds\u201d using the uranium-lead zircon method of dating.", 
                 "cap2": "", 
-                "img1": "https://drive.google.com/file/d/1oHX1yE_uTe7lIhxOLQ0jVvAt6oJUXnJr/view?usp=sharing", 
+                "img1": "https://drive.google.com/uc?export=view&id=1oHX1yE_uTe7lIhxOLQ0jVvAt6oJUXnJr ", 
                 "img2": "https://farm1.static.flickr.com/732/22219878631_d16891f503_b.jpg"
             }, 
             "main": "https://earth.google.com/web/@39.67577388,-105.19268228,1880.64679882a,0d,60y,24.81266476h,109.25812183t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBNdEt0Z29KbTR3TXdRbDNabWZiTTIxcF9uaHNNU0ExWHVxQzVOeRAF", 
@@ -52,8 +52,8 @@
             "img": {
                 "cap1": "Concretion:", 
                 "cap2": "Bowling Balls Beach", 
-                "img1": "https://drive.google.com/file/d/1oQ2YBf5HlUDA5BLDmeDQdudAj0P12uLU/view?usp=sharing", 
-                "img2": "https://drive.google.com/file/d/1_NcO4QBE9XKW_4mjeTWRcMyVCIoNuxMM/view?usp=sharing"
+                "img1": "https://drive.google.com/uc?export=view&id=1oQ2YBf5HlUDA5BLDmeDQdudAj0P12uLU ", 
+                "img2": "https://drive.google.com/uc?export=view&id=1_NcO4QBE9XKW_4mjeTWRcMyVCIoNuxMM "
             }, 
             "main": "https://earth.google.com/web/@39.6756383,-105.192055,1879.84773639a,0d,60y,141.26130381h,123.07934298t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBNRzlFdmNXVHBrM3JRSUxjYkhyWnY2aVo2a3Nmb1F0MHVIcEdzUBAF", 
             "pagenumber": 5, 
@@ -67,7 +67,7 @@
                 "cap3": "Fracking drill near houses in Denver, CO", 
                 "img1": "https://images1.westword.com/imager/u/745xauto/8572438/dinosaur.ridge.jpg", 
                 "img2": "https://youtu.be/WOYNkplEvjE", 
-                "img3": "https://drive.google.com/file/d/14i7TSIWUDCekUzx8oCw1M1Mp6KykI4oE/view?usp=sharing"
+                "img3": "https://drive.google.com/uc?export=view&id=14i7TSIWUDCekUzx8oCw1M1Mp6KykI4oE "
             }, 
             "main": "https://earth.google.com/web/@39.67950753,-105.18637801,1790.45876935a,1078.1076103d,35y,67.07618314h,74.93128022t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAg", 
             "pagenumber": 6, 
@@ -78,8 +78,8 @@
             "img": {
                 "cap1": "Location of the Interior Cretaceous Seaway 300 MYA", 
                 "cap2": "Ripple marks in the Dakota FM", 
-                "img1": "https://drive.google.com/file/d/1Uxu3-kthJNKY1QsbKeW7drxz9tvQiIA6/view?usp=sharing", 
-                "img2": "https://drive.google.com/file/d/15CImzPmollp4HEarPrrbG8qx2uKs_957/view?usp=sharing"
+                "img1": "https://drive.google.com/uc?export=view&id=1Uxu3-kthJNKY1QsbKeW7drxz9tvQiIA6 ", 
+                "img2": "https://drive.google.com/uc?export=view&id=15CImzPmollp4HEarPrrbG8qx2uKs_957 "
             }, 
             "main": "https://earth.google.com/web/@39.67416591,-105.18979358,1795.12299059a,2438.03591589d,35y,0.00000001h,62.50357181t,-0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAg", 
             "pagenumber": 7, 
@@ -90,8 +90,8 @@
             "img": {
                 "cap1": "Dinosarur Trackway", 
                 "cap2": "Iguanodon ", 
-                "img1": "https://drive.google.com/file/d/1IJXTs6-a-c7ciTWpyYGp8WC_74HFt6_O/view?usp=sharing", 
-                "img2": "https://drive.google.com/file/d/1TJdzG8wM8E_PKAFJf3HXrwOsRTKARt6a/view?usp=sharing"
+                "img1": "https://drive.google.com/uc?export=view&id=1IJXTs6-a-c7ciTWpyYGp8WC_74HFt6_O ", 
+                "img2": "https://drive.google.com/uc?export=view&id=1TJdzG8wM8E_PKAFJf3HXrwOsRTKARt6a "
             }, 
             "main": "https://earth.google.com/web/@39.680895,-105.1922917,1856.20452685a,0d,60y,315.26902428h,85t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBObkpwXzk5M3RxOG1tZkt6VlN6OGkzMG1OSk40d19Pel9PSldoXxAF", 
             "pagenumber": 8, 
