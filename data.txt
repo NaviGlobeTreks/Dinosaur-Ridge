@@ -98,7 +98,7 @@
             "text": "Over 300 footprints are visible in the largest of the trackways at dinosaur ridge. Moslty Iguanodon, including baby Igunodons, there are a few Therapod tracks as well.Some people have detailed stories of the Theropods chasing the baby dinosaurs, looking for an easy meal, but there is no way to tell if the dinosaurs were there at the same time or not.  ", 
             "title": "Dinosaur Trackway"
         }, 
-        "auther": "Dr Christian Shorey & Becky Shorey", 
+        "auther": "Becky Shorey", 
         "description": "Geologic field trip to Dinosaur Ridge in Morrison, CO. A unique geoloic history including dinosaur trackways, seaways, ripple marks and uplift.", 
         "grade": "9-12", 
         "id": "1iwEPfqDJ8xDwih6r_0Dty7xj6ZaFNaVD_rKUBFiHwWE", 
