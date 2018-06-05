@@ -4,7 +4,7 @@
             "img": {
                 "cap1": "I-70 roadcut through Dinosaur Ridge", 
                 "cap2": "Colorado School of Mines video on the history of the area", 
-                "img1": "https://drive.google.com/uc?export=view&id=1GBb-qoIFCRbUzEyItPC_K6DiUaq5dJ5K ", 
+                "img1": "https://api.trekaroo.com//photos/flickr_cache/78982/78982.jpg", 
                 "img2": "https://drive.google.com/uc?export=view&id=1BfI9goCEHq3bMgLmqGMGyald9ZS_O-gf "
             }, 
             "main": " https://earth.google.com/web/@39.69416605,-105.2,2020.27405608a,4061.93660312d,35y,0h,45t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgCIAEoAigC", 
