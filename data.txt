@@ -17,7 +17,7 @@
                 "cap1": "Artist rendition of the time during the Morrison FM", 
                 "cap2": "Morrison FM paleosols: Note the alternating purple and green layers.", 
                 "cap3": "The Morrison FM covers many states and dinosaur fossils can be found throughout the rock unit. ", 
-                "img1": "https://drive.google.com/uc?export=view&id=13k7OaasJxPu1OlPjUY0DxoApA9FheKP9 ", 
+                "img1": "https://lh3.googleusercontent.com/-1C4cu7np9k0/VuGu1G6Ht6I/AAAAAAABMKg/21k3yTerFo0/dinosaur-ridge-morrison-115.jpg?imgmax=800", 
                 "img2": "https://drive.google.com/uc?export=view&id=19iJzU40-TbEtMCxF1dle7zZSHBdssSMf ", 
                 "img3": "https://drive.google.com/uc?export=view&id=1L1Hdd2frW9uxuWeNFxRksnpDoH_kw29q "
             }, 
@@ -29,7 +29,7 @@
         "3": {
             "img": {
                 "cap1": "Golden Fault creating a valley by the visitor's center.", 
-                "img1": "https://drive.google.com/uc?export=view&id=1tPivJDP68qU3ayuN4r07O-1ryHFNJXcB "
+                "img1": "http://www.cliffshade.com/colorado/dakota_hogback/dak30.jpg"
             }, 
             "main": "https://earth.google.com/web/@39.67588,-105.1932783,1882.38048802a,0d,60y,346.70981043h,95.10786567t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBPVnBTbTd6bUVqSG1vT09kemtKaXJrc2RJMk1FWjM0YW1OMWRDVBAF", 
             "pagenumber": 3, 
