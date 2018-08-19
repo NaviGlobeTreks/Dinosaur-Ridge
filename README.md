@@ -131,7 +131,7 @@
                 "img1": "https://drive.google.com/uc?export=view&id=1IJXTs6-a-c7ciTWpyYGp8WC_74HFt6_O ", 
                 "img2": "https://drive.google.com/uc?export=view&id=1TJdzG8wM8E_PKAFJf3HXrwOsRTKARt6a "
             }, 
-            "main": "https://earth.google.com/web/@39.680895,-105.1922917,1856.20452685a,0d,60y,315.26902428h,85t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBObkpwXzk5M3RxOG1tZkt6VlN6OGkzMG1OSk40d19Pel9PSldoXxAF", 
+            "main": "https://earth.google.com/web/@39.6809057,-105.19228999,1856.25484653a,0d,60y,113.25083971h,85.06886086t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBPamVPR3lvMHBqb216US1iTEN2QTBiOEU3VzZEZmpiUUpZTnpvMxAF", 
             "pagenumber": 8, 
             "text": "Over 300 footprints are visible in the largest of the trackways at dinosaur ridge. Moslty Iguanodon, including baby Igunodons, there are a few Therapod tracks as well.Some people have detailed stories of the Theropods chasing the baby dinosaurs, looking for an easy meal, but there is no way to tell if the dinosaurs were there at the same time or not.  ", 
             "title": "Dinosaur Trackway"
