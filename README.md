@@ -12,6 +12,44 @@
             "text": "Upon construction of the 1.1 mile section of road over the Dakota Hogback in 1937, a large dinosarur trackway and many unique geologic sites were uncovered. The road was open to trafic until 2014 and is now only open to tour buses, pedestrians and cyclists, making it much safer for tours. \n\n\n\n", 
             "title": "Dinosaur ridge"
         }, 
+        "10": {
+            "img": {
+                "cap1": "Me sitting in an apatosaurus footprint in Como Bluff, WY", 
+                "cap2": "I found a new dig site and named it \"Copper\" after my dog that had just passed away. It was a Camarasaur as identified by Dr. Baaker", 
+                "cap3": "shed allosaur tooth ", 
+                "cap4": "Evidence of an infected toe from \"Big Al\", an Allosaur discoved in Nail Quarry in Como Bluff, the same quarry where we found the shed Allosaur tooth years later. ", 
+                "cap5": "There were more than just dinosarus found in the area. Some layers were under water and using a \"Dino light\" to magify the image, you can see a fish vertibrae and rib. ", 
+                "img1": "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/228228_1065152916471_748_n.jpg?_nc_cat=0&oh=790fbc7c9a76227d2a05d73f89786e7d&oe=5BFF8851", 
+                "img2": "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/230608_1065153116476_7000_n.jpg?_nc_cat=0&oh=604c79c8489e86b65c9c2001dd2f193d&oe=5BF78C1B", 
+                "img3": "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/228768_1065152316456_2037_n.jpg?_nc_cat=0&oh=8f8a2684006d878238e025f377a9422d&oe=5BFD322F", 
+                "img4": "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/225373_1065152476460_3992_n.jpg?_nc_cat=0&oh=b9cc310a1a1fcc7234b034f892790726&oe=5BFDA282", 
+                "img5": "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/1382290_10202003375113367_377509562_n.jpg?_nc_cat=0&oh=9a515e72653d0595c8f4175e07fdd80e&oe=5C07B686"
+            }, 
+            "main": "https://www.google.com/maps/place/Como+Bluffs/@41.9154294,-106.0683515,2865m/data=!3m1!1e3!4m5!3m4!1s0x8767a37df65c2619:0xf935412f6e245699!8m2!3d41.9160774!4d-106.0641775", 
+            "pagenumber": 10, 
+            "text": "I was fortunate enough to get to spend a week digging up Dinosarus in Como Bluff. We were able to find a variety of dinosaurs including and Allosaurous and Camarasaur. One thing that was interesting was a shed Allosaur tooth that we found. Shed teeth are like our baby teeth and are an indication of dinoaurs living and breeding in an area. There were no signs of any herbivours living there so it is believed that they just traveled through and the carnivours would lay in waiting to have an easy meal. ", 
+            "title": "Morrison Formation: Como Bluff, Wyoming"
+        }, 
+        "11": {
+            "img": {
+                "cap1": "", 
+                "img1": "https://drive.google.com/uc?export=view&id=154q3HSzuwKUHVoT8w3hoGSpMdoNetYmE "
+            }, 
+            "main": "", 
+            "pagenumber": 11, 
+            "text": "", 
+            "title": "Morrison Formation:"
+        }, 
+        "12": {
+            "img": {
+                "cap1": "", 
+                "img1": "https://drive.google.com/uc?export=view&id=154q3HSzuwKUHVoT8w3hoGSpMdoNetYmE "
+            }, 
+            "main": "", 
+            "pagenumber": 12, 
+            "text": "", 
+            "title": "Dakota Formation: Trackway"
+        }, 
         "2": {
             "img": {
                 "cap1": "Artist rendition of the time during the Morrison FM", 
@@ -97,6 +135,18 @@
             "pagenumber": 8, 
             "text": "Over 300 footprints are visible in the largest of the trackways at dinosaur ridge. Moslty Iguanodon, including baby Igunodons, there are a few Therapod tracks as well.Some people have detailed stories of the Theropods chasing the baby dinosaurs, looking for an easy meal, but there is no way to tell if the dinosaurs were there at the same time or not.  ", 
             "title": "Dinosaur Trackway"
+        }, 
+        "9": {
+            "img": {
+                "cap1": "Bone in the Morrison Fm. Dinosaur Ridge, Colorado", 
+                "cap2": "Typical Morrison Fm with alternating bands of green/ red/ purple rock, often shale with sandstone layers ", 
+                "img1": "https://goo.gl/images/GAxPiH", 
+                "img2": "https://goo.gl/images/HX83eS"
+            }, 
+            "main": "https://earth.google.com/web/@39.67834482,-105.19497645,1870.85285343a,0d,60y,354.60587697h,83.89482874t,0r/data=ClMaURJJCiUweDg3NmI4MzQxNmY2OWFjOWQ6MHg3MzY5ZThmMzYxMjhmZWI4Gd18fnPa2ENAIczMzMzMTFrAKg5EaW5vc2F1ciBSaWRnZRgBIAEoAiIwCixBRjFRaXBQRVNieVNIMlZKMG1PVHJJSEQyNElzN3J6dVNBZW9iQzd6ZDU3cBAF", 
+            "pagenumber": 9, 
+            "text": "Aurther Lakes discovered the first dinosaurs at this location in 1877. Among the first species to be discovered were the Stegosaurus and the Apatosaurus, which was the first discovery of both of these dinosaurs every discovered. Upon his discovery, he sent samples of bones to both Edward Drinker Cope at the Academy of Natural Sciences in Philadelphia and Orthneil Charles Marsh of the Peabody Museum at Yale University which ultimately led to what is refered to as the \"Bone Wars\" where both paleontologists did a lot of underhanded things in order to get the best bones and most discoveries. By the time the bone wars were over, both scientists were broke and their reputations tarnished, but it led to the discovery of 136 new dinosaur species. The bones in Dinosaur Ridge were embedded in a sandstone that was so hard, it was really hard to get out of the rock. Meanwhile, two men, Carlin and Reed were digging for the Transcontinental Railroad in Como Bluffs, Wyoming came across the same Formation, but the bones there were in much softer rock, making it significantly easier to get out of the rock and the Morrison location was abandoned.  ", 
+            "title": "Morrison Formation"
         }, 
         "auther": "Becky Shorey", 
         "description": "Geologic field trip to Dinosaur Ridge in Morrison, CO. A unique geoloic history including dinosaur trackways, seaways, ripple marks and uplift.", 
